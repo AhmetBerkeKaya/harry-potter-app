@@ -45,7 +45,7 @@ Karakter detay sayfasında, seçilen karakterin ismi, ev bilgisi, doğum tarihi 
 1. **Repo'yu Klonla**:
    GitHub üzerinden projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/kullanıcı_adınız/harrypotterapp.git
+   git clone https://github.com/AhmetBerkeKaya/harrypotterapp.git
 2. **Android Studio'yu Başlat:**
 
 Android Studio'yu açın ve "Open Project" seçeneği ile projeyi açın.
